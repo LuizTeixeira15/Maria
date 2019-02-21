@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_casa"
+            android:title="Casa"
+            android:icon="@android:drawable/star_on"/>
+        <item
+            android:id="@+id/nav_upa"
+            android:title="UPA"
+            android:icon="@android:drawable/star_on"/>
+        <item
+            android:id="@+id/nav_fisio"
+            android:title="Fisioterapia"
+            android:icon="@android:drawable/star_on"/>
+        <item
+            android:id="@+id/nav_centro"
+            android:title="Bradesco"
+            android:icon="@android:drawable/star_on"/>
+        <item
+            android:id="@+id/nav_bradesco"
+            android:title="Bradesco"
+            android:icon="@android:drawable/star_on"/>
+        <item
+            android:id="@+id/nav_shopping"
+            android:title="Shopping"
+            android:icon="@android:drawable/star_on"/>
+
+    </group>
+
+
+</menu>
